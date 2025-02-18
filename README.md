@@ -32,5 +32,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyukyyy&show_icons=true&theme=tokyonight&width=100)
 
 
-<iframe source="https://hello-world.hyukyyy.com"></iframe>
+
 </div>
