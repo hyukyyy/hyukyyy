@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=HYUKYYY&fontSize=60&animation=fadeIn&fontColor=dfdfdf)
 
+[![Visit my page](https://hello-world.hyukyyy.com/homepage-capture.png)](https://hello-world.hyukyyy.com/)
+
 ## :dizzy: tech stack :dizzy:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,7 +32,4 @@
 <br></br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyukyyy&show_icons=true&theme=tokyonight&width=100)
-
-
-
 </div>
